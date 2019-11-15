@@ -1,1 +1,1 @@
-# DoorLock
+It is smart home door security system. It only allows the authorized person by double verification first by RFID card and then by password. If someone forcefully wants access then it will also send message to the given mobile number by using GSM module.
